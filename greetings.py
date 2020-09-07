@@ -1,1 +1,3 @@
-print ("wllcome")
+print ("wellcome")
+
+print("wellcome")
